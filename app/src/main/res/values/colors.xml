@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ed5252</color>
+    <color name="colorPrimaryDark">#b41729
+
+    </color>
+    <color name="colorAccent">#ff857e
+
+    </color>
+
+    <color name="orange">#FF3909</color>
+    <color name="colorAccentDark">#00B482</color>
+    <color name="accepted">#a4c639</color>
+    <color name="rejected">#D81B60</color>
+    <color name="colorBlack">#555555</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#707070</color>
+    <color name="colorGreyLight">#edecec</color>
+    <color name="white">#fff</color>
+    <color name="transparent">#00000000</color>
+</resources>

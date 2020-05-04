@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShaadiMatrimony</string>
+    <string name="accept_text">Accepted by you</string>
+    <string name="rejected_text">Rejected by you</string>
+    <string name="error_text">Something went wrong please try again later !!!</string>
+    <string name="retry">RETRY</string>
+    <string name="click_tag">Click Listener Tag</string>
+</resources>

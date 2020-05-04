@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--Activity-->
+  <dimen name="activity_left_margin">16dp</dimen>
+  <dimen name="activity_right_margin">16dp</dimen>
+  <dimen name="activity_top_margin">16dp</dimen>
+  <dimen name="activity_bottom_margin">16dp</dimen>
+
+
+  <!--Textview-->
+  <dimen name="tv_large">18sp</dimen>
+  <dimen name="tv_medium">16sp</dimen>
+  <dimen name="tv_small">14sp</dimen>
+  <dimen name="tv_very_small">12sp</dimen>
+  <dimen name="fab_margin">16dp</dimen>
+
+  <dimen name="large_padding">16dp</dimen>
+  <dimen name="xlarge_padding">20dp</dimen>
+  <dimen name="double_large_padding">32dp</dimen>
+  <dimen name="small_padding">8dp</dimen>
+  <dimen name="medium_padding">12dp</dimen>
+  <dimen name="mini_padding">4dp</dimen>
+
+  <dimen name="nav_header_vertical_spacing">16dp</dimen>
+  <dimen name="nav_header_height">160dp</dimen>
+
+  <!--Textsize-->
+  <dimen name="small_textsize">14sp</dimen>
+  <dimen name="normal_textsize">16sp</dimen>
+  <dimen name="medium_textsize">18sp</dimen>
+  <dimen name="large_textsize">22sp</dimen>
+
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+  <dimen name="padding_tracking">22dp</dimen>
+  <dimen name="padding_tracking_display">28dp</dimen>
+  <dimen name="padding_material_design">16dp</dimen>
+
+  <dimen name="font_size_large">18sp</dimen>
+  <dimen name="font_size_medium">16sp</dimen>
+  <dimen name="font_size_small">14sp</dimen>
+  <dimen name="font_size_tiny">11sp</dimen>
+  <dimen name="font_size_very_large">20sp</dimen>
+  <dimen name="font_size_very_small">12sp</dimen>
+  <dimen name="small_mini_padding">2dp</dimen>
+  <dimen name="elevation">5dp</dimen>
+  <dimen name="padding_2dp">2dp</dimen>
+  <dimen name="padding_1dp">1dp</dimen>
+  <dimen name="text_margin">16dp</dimen>
+  <dimen name="appbar_size">256dp</dimen>
+
+
+</resources>
